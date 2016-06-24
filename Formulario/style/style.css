@@ -1,0 +1,61 @@
+header{
+	background-color: #4476E8;
+	border-radius: 5px;
+	border-style:solid; 
+	margin-bottom: 15px;
+	margin-left: 70px;
+	margin-top: 15px;
+	margin-right: 70px;
+
+}
+
+header div{
+margin: 15px;
+
+}
+header div p{
+	margin: 5px;
+}
+
+h2{
+	text-align: center;
+}
+
+#uno{
+	margin: 10px;
+	
+}
+#tres{
+	margin-right: 70px;
+	margin-left: 70px;
+}
+#cuatro{
+	text-align: center;
+	font-size: 20px;
+	padding: 5px 5px 5px 5px;
+	background-color: #3264E8;
+	border-radius: 3px;
+	border-style: solid;
+	border-color: #3264E8;
+	margin-right: 70px;
+	margin-left: 70px;
+}
+#dato{
+	color: black;
+	font-size: 70%;
+}
+
+.estilos{
+	border-radius: 5px;
+	border-style: solid;
+	background-color: #4476E8;
+	
+}
+h3{
+text-align: center;
+}
+
+span{
+	color: red;
+}
+
